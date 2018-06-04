@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Ball_Terain.data.unityweb",
+"asmCodeUrl": "Ball_Terain.asm.code.unityweb",
+"asmMemoryUrl": "Ball_Terain.asm.memory.unityweb",
+"asmFrameworkUrl": "Ball_Terain.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
